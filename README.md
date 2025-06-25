@@ -1,6 +1,6 @@
 ### README
 
-# Projeto: Identificação de Serviços Próximos com BigQuery e Haversine
+# Identificação de Serviços por latitude e longitude 
 
 Este projeto utiliza BigQuery para consultar dados de serviços de rua e calcula a proximidade com locais pré-definidos utilizando a fórmula de Haversine. O objetivo é identificar serviços próximos a determinadas filiais da Mottu.
 
